@@ -1,0 +1,5 @@
+# .gitignore
+.env
+uploaded_files.txt
+/data/   
+!data/.gitkeep 
