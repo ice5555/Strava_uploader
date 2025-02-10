@@ -1,5 +1,6 @@
 # .gitignore
 .env
 uploaded_files.txt
-/data/   
+data/*
 !data/.gitkeep 
+.DS_Store
